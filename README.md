@@ -1,7 +1,8 @@
 # network multitool
 just a little fun project i did back in 2017, feel free to skid
 
-##Features
+## Features
+
 1.Ping an IP/Domain
 2.Perform Traceroute
 3.DNS Lookup
